@@ -3,12 +3,7 @@ using namespace std;
 int main()
 {
 
-	cout<<"happy a day"<<endl;
-
-	cout<<"wangheye Windy"<<endl;
-
-
-	cout<<"20251018"<<endl;
-
+	cout<<"vfdjkn"<<endl;
+	cout<<"biyioohddisbov"<<endl;
 	return 0;
 }
